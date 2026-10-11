@@ -1,0 +1,8 @@
+langgraph>=0.2
+langchain-core>=0.3
+langchain-google-genai>=4.0
+fastmcp>=2.0
+mcp>=1.0
+anyio>=4.0
+requests>=2.32
+python-dotenv>=1.0

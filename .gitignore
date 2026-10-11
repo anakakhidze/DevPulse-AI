@@ -158,6 +158,9 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+devpulse_memory.sqlite3
+devpulse_memory.sqlite3-shm
+devpulse_memory.sqlite3-wal
 
 # Spyder project settings
 .spyderproject
